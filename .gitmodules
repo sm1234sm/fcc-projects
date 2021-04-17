@@ -4,3 +4,6 @@
 [submodule "fcc-front-end-library-projects"]
 	path = fcc-front-end-library-projects
 	url = git@github.com:sm1234sm/fcc-front-end-library-projects.git
+[submodule "fcc-javascript-algorithms-and-data-structures"]
+	path = fcc-javascript-algorithms-and-data-structures
+	url = git@github.com:sm1234sm/fcc-javascript-algorithms-and-data-structures.git
