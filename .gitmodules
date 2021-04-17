@@ -1,0 +1,6 @@
+[submodule "fcc-responsive-web-design-projects"]
+	path = fcc-responsive-web-design-projects
+	url = git@github.com:sm1234sm/fcc-responsive-web-design-projects.git
+[submodule "fcc-front-end-library-projects"]
+	path = fcc-front-end-library-projects
+	url = git@github.com:sm1234sm/fcc-front-end-library-projects.git
